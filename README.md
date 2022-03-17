@@ -1,4 +1,6 @@
 # Raytracer
+[![CodeQL](https://github.com/MiclausCorp/raytracer/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/MiclausCorp/raytracer/actions/workflows/codeql-analysis.yml)
+
 Tiny Raytracing algorithm implementation
 
 ## Build
